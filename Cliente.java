@@ -4,4 +4,7 @@ public class Cliente {
     private int agencia;
     private double saldo;
     private double euler;
+    private double pi;
 }
+
+
